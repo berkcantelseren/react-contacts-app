@@ -1,7 +1,7 @@
 # Contacts App with React
 ---
 
-* https://berkcantelseren.github.io/react-contacts-app/ *
+*https://berkcantelseren.github.io/react-contacts-app/*
 
 ### React kullanarak yapmış olduğum basit bir rehber uygulaması.
 
