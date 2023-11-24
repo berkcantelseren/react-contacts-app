@@ -25,4 +25,4 @@
 
 ---
 
-1 week 1 year to go
+1 jrrx 1 lrne gb tb
